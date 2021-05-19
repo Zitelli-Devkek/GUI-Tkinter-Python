@@ -1,6 +1,6 @@
 # GUI de Python con Tkinter!
 <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="400" />
-<img align="center" src="https://lh3.googleusercontent.com/98JfuGoUOxFK63NBn6Qd3TR1dSGcV_mJ17o_wRjPqWoKcDa7PyCG1K2C9jgH1Pb1N6Gj" alt="Tkinter logo" width="400">
+<img align="center" src="https://lh3.googleusercontent.com/98JfuGoUOxFK63NBn6Qd3TR1dSGcV_mJ17o_wRjPqWoKcDa7PyCG1K2C9jgH1Pb1N6Gj" alt="Tkinter logo" width="200">
 
 En tiempos de pandemia, la programación es un elemento clave para poder agilizar los tiempos en todas las áreas críticas, y este archivo de Python fue creado con el fin de recrear un script de código y estructura básica, con una utilidad  relacionada con el sistema de salud. Además añadiremos un toque personal.
 
