@@ -1,6 +1,6 @@
 # GUI de Python con Tkinter!
 
-<img align="center"src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="400" />
+ <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="400" />
 
 
 
